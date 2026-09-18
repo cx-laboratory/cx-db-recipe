@@ -1,0 +1,20 @@
+{
+  "tags": [
+    "dinner",
+    "home",
+    "lunch",
+    "vegetable"
+  ],
+  "categories": {
+    "dish_type": [
+      "vegetable"
+    ],
+    "meal": [
+      "dinner",
+      "lunch"
+    ],
+    "context": [
+      "home"
+    ]
+  }
+}
